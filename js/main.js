@@ -1,4 +1,3 @@
-let $ = require('jquery');
 $(document).ready(function() {
 	//$('body').width($(window).width());
 	//$('.header').height($(window).height());
